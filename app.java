@@ -6,5 +6,4 @@ function increment() {
 }
 
 surya
-kiran
 
