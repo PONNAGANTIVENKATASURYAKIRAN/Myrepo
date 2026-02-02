@@ -5,5 +5,4 @@ function increment() {
     document.getElementById("count").innerText = count;
 }
 
-surya
 
